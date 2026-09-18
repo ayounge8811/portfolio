@@ -601,17 +601,9 @@ MOBILE HEADER
 
   /* 버튼 */
   .feature .feature_inner .view_btn {
-    padding-right: 70px;
+    padding-right: 0px;
     padding-top: 10px;
   }
-
-  .view_btn {
-    padding-right: 0px;
-    padding-top: 0px;
-    align-self: flex-start;
-
-  }
-
 
   /* 카드 */
 

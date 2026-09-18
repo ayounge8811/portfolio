@@ -147,7 +147,7 @@ header .menu ul .on::after {
   transition: .2s;
 }
 
-.banner_inner .text button span {
+.banner_inner .text button a {
   padding-right: 3px;
   font-weight: 400;
   transform: translateY(3px);
@@ -325,6 +325,7 @@ main::after {
   gap: 30px;
   justify-content: center;
   padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .feature .feature_inner p {
@@ -405,9 +406,11 @@ main::after {
 }
 
 .feature .feature_inner img {
+  border-radius: 50px;
+  outline: 1px solid #78ABE6;
   width: 100%;
   height: 100%;
-  padding-bottom: 100px;
+  padding-bottom: 0;
 }
 
 .tabinner {
@@ -601,7 +604,7 @@ main::after {
 }
 
 .box1 {
-  background: url(../img/img3.png) center/cover no-repeat;
+  background: url(../img/2portfolio_design_img2.png) center/cover no-repeat;
 
   width: 277px;
   height: 323px;
@@ -703,7 +706,7 @@ main::after {
   position: relative;
   width: 485px;
   height: 323px;
-  background: url(../img/img1.png) 30% center / contain no-repeat;
+  background: url(../img/2portfolio_design_img1.png) center/cover no-repeat;
 
   border-radius: 10px;
 }
@@ -715,7 +718,8 @@ main::after {
   border-radius: 10px;
   width: 328px;
   height: 656px;
-  background: url(../img/img4.png) center/cover no-repeat;
+  background: url(../img/2portfolio_design_img3.png) center/cover no-repeat;
+
 
 }
 
@@ -725,7 +729,7 @@ main::after {
   border-radius: 10px;
   width: 438px;
   height: 323px;
-  background: url(../img/img2.png) center/contain no-repeat;
+  background: url(../img/2portfolio_design_img4.png) center/cover no-repeat;
 
 }
 
@@ -735,7 +739,7 @@ main::after {
   width: 328px;
   border-radius: 10px;
   height: 323px;
-  background: url(../img/bag1.png) center/cover no-repeat;
+  background: url(../img/2portfolio_design_img5.png) center/cover no-repeat;
 
 }
 

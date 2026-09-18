@@ -253,6 +253,11 @@ main .pic {
   padding-top: 100px;
   padding-left: 90px;
 }
+main .pic img{
+  border-radius: 50px;
+  outline: 1px solid #78ABE6;
+
+}
 
 /* == main content== */
 main .main_inner .content {
